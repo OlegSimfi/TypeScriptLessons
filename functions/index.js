@@ -1,3 +1,4 @@
+"use strict";
 var myName = 'WFM';
 function getMyName() {
     return myName;
@@ -21,3 +22,4 @@ function sum(num1, num2) {
 }
 mySum = sum;
 console.log(mySum(5, 10));
+//# sourceMappingURL=index.js.map

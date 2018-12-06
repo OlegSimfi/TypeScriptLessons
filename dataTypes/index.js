@@ -1,3 +1,4 @@
+"use strict";
 // string
 var str = 'string';
 //number
@@ -10,3 +11,4 @@ var uknown = '1';
 uknown = 1;
 var uknown2 = '1';
 uknown2 = 1;
+//# sourceMappingURL=index.js.map
