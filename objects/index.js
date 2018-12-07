@@ -1,4 +1,3 @@
-"use strict";
 var user = {
     name: 'WFM',
     age: 50,
@@ -20,4 +19,3 @@ var user2 = {
 };
 console.log(user.getJobs());
 console.log(user2.getJobs());
-//# sourceMappingURL=index.js.map
